@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://boredcomics.netlify.app"
+  to = "https://boredcomic.com"
+  status = 301
+  force = true
